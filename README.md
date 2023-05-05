@@ -29,3 +29,12 @@ python main.py
 
 ## Conclusion
 This code is a simple example of how to use MongoDB to store and retrieve data based on user preferences. You can modify the database schema and the questions to match your specific needs and preferences.
+
+### What the application looks like:
+- All answers are **"yes"**
+
+![](./Images/All_yes.PNG)
+
+- All answers are **"no"**
+
+![](./Images/All_no.PNG)
